@@ -7,7 +7,7 @@ AER850 Project 1
 
 The purpose of this project was to develop ML models based on a provided data set.
 
-@author: Akus Chhabra - 500970974
+@author: Akus Chhabra
 """
 
 import numpy as np
